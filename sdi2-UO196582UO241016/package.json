@@ -7,7 +7,7 @@
     "express-session": "^1.15.6",
     "jsonwebtoken": "^8.2.1",
     "log4js": "^2.5.3",
-    "mongodb": "^2.2.35",
+    "mongodb": "^3.1.13",
     "swig": "^1.4.2"
   }
 }
